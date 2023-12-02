@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "LZkXcFNz2FQez8BRc80av7jHIc53EL3187Drkk6UidW8NvPhD7g+QwP7dyHO0TDXw7WUEWiVTWNgDnribb9lVw==",
+  "dgSpecHash": "QwNLv9BZa10kqS/PvG6XrjOyfbhGYg7THzrSB4mhWa4JAuxSAdzWwrKdWoeRxcPk1Pj6TV3hp2ZtoMcWx6MhUw==",
   "success": true,
   "projectFilePath": "C:\\Users\\uenso\\Source\\Apps\\Chat\\Chat\\Chat.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\uenso\\.nuget\\packages\\microsoft.typescript.msbuild\\5.3.2\\microsoft.typescript.msbuild.5.3.2.nupkg.sha512"
+  ],
   "logs": []
 }
