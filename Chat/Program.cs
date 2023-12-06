@@ -1,7 +1,7 @@
 using Chat.Hubs;
 
 var builder = WebApplication.CreateBuilder(args);
-builder.WebHost.UseUrls("http://localhost:1000");
+builder.WebHost.UseUrls("https://localhost:1000");
 builder.Services.AddSignalR();
 
 var app = builder.Build();
