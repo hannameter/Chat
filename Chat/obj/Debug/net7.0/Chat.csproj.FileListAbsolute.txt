@@ -24,3 +24,7 @@ C:\Users\uenso\Source\Apps\Chat\Chat\obj\Debug\net7.0\refint\Chat.dll
 C:\Users\uenso\Source\Apps\Chat\Chat\obj\Debug\net7.0\Chat.pdb
 C:\Users\uenso\Source\Apps\Chat\Chat\obj\Debug\net7.0\Chat.genruntimeconfig.cache
 C:\Users\uenso\Source\Apps\Chat\Chat\obj\Debug\net7.0\ref\Chat.dll
+C:\Users\uenso\Source\Apps\Chat\Chat\bin\Debug\net7.0\package-lock.json
+C:\Users\uenso\Source\Apps\Chat\Chat\bin\Debug\net7.0\package.json
+C:\Users\uenso\Source\Apps\Chat\Chat\bin\Debug\net7.0\src\tsconfig.json
+C:\Users\uenso\Source\Apps\Chat\Chat\bin\Debug\net7.0\Chat.staticwebassets.runtime.json

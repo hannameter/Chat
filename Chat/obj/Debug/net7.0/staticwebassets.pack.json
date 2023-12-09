@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\uenso\\Source\\Apps\\Chat\\Chat\\wwwroot\\css\\main.61984e02c9f868c7458e.css",
+      "PackagePath": "staticwebassets\\css\\main.61984e02c9f868c7458e.css"
+    },
+    {
+      "Id": "C:\\Users\\uenso\\Source\\Apps\\Chat\\Chat\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\uenso\\Source\\Apps\\Chat\\Chat\\wwwroot\\main.61984e02c9f868c7458e.js",
+      "PackagePath": "staticwebassets\\main.61984e02c9f868c7458e.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Chat.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Chat.props",
+      "PackagePath": "build\\Chat.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Chat.props",
+      "PackagePath": "buildMultiTargeting\\Chat.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Chat.props",
+      "PackagePath": "buildTransitive\\Chat.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

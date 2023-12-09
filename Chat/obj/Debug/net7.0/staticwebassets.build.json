@@ -1,11 +1,71 @@
 {
   "Version": 1,
-  "Hash": "JPR+wwDFcw3HWSM367Gp5R009PUwIaM4+ulojYRrSAk=",
+  "Hash": "xvZg2MEa9bgDDAUwiNQe3sGInASnLEaWF4qC6AyA5c0=",
   "Source": "Chat",
   "BasePath": "_content/Chat",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "Chat\\wwwroot",
+      "Source": "Chat",
+      "ContentRoot": "C:\\Users\\uenso\\Source\\Apps\\Chat\\Chat\\wwwroot\\",
+      "BasePath": "_content/Chat",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\uenso\\Source\\Apps\\Chat\\Chat\\wwwroot\\css\\main.61984e02c9f868c7458e.css",
+      "SourceId": "Chat",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\uenso\\Source\\Apps\\Chat\\Chat\\wwwroot\\",
+      "BasePath": "_content/Chat",
+      "RelativePath": "css/main.61984e02c9f868c7458e.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\main.61984e02c9f868c7458e.css"
+    },
+    {
+      "Identity": "C:\\Users\\uenso\\Source\\Apps\\Chat\\Chat\\wwwroot\\index.html",
+      "SourceId": "Chat",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\uenso\\Source\\Apps\\Chat\\Chat\\wwwroot\\",
+      "BasePath": "_content/Chat",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\uenso\\Source\\Apps\\Chat\\Chat\\wwwroot\\main.61984e02c9f868c7458e.js",
+      "SourceId": "Chat",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\uenso\\Source\\Apps\\Chat\\Chat\\wwwroot\\",
+      "BasePath": "_content/Chat",
+      "RelativePath": "main.61984e02c9f868c7458e.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\main.61984e02c9f868c7458e.js"
+    }
+  ]
 }
